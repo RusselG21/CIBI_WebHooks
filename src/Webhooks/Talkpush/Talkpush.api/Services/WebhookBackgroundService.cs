@@ -1,7 +1,9 @@
 ﻿
-using Talkpush.api.Features.PostPayload;
 
-public class WebhookBackgroundService(IWebhookQueue _queue, IServiceProvider _serviceProvider)
+public class WebhookBackgroundService
+    (IWebhookQueue _queue,
+    IServiceProvider _serviceProvider,
+    ILogger<WebhookBackgroundService> _ilogger)
     : BackgroundService
 {
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -13,7 +15,16 @@ public class WebhookBackgroundService(IWebhookQueue _queue, IServiceProvider _se
                 using var scope = _serviceProvider.CreateScope();
                 var mediator = scope.ServiceProvider.GetRequiredService<IMediator>();
 
-                await mediator.Publish(new PostPayloadEvent(payload), stoppingToken);
+                // Retry Mechanism if exception occur
+                try
+                {
+                    await mediator.Publish(new PostPayloadEvent(payload), stoppingToken);
+                }
+                catch (Exception ex)
+                {
+                    _ilogger.LogError($"Error processing webhook: {ex.Message}");
+                    _queue.EnqueueWebhook(payload);
+                }
             }
             else
             {
