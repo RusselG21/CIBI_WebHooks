@@ -1,0 +1,29 @@
+[
+  {
+    "ContainingType": "Talkpush.api.Features.GetPayload.PostTalkPushPayloadEndpoint\u002B\u003C\u003Ec",
+    "Method": "\u003CAddRoutes\u003Eb__0_0",
+    "RelativePath": "webhooks/talkpush",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "Talkpush.api.Features.GetPayload.GetTalkPushPayloadRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/problem\u002Bjson"
+        ],
+        "StatusCode": 202
+      }
+    ],
+    "EndpointName": "PostPayloadBasket",
+    "Description": "Post Payload",
+    "Summary": "Post Payload"
+  }
+]

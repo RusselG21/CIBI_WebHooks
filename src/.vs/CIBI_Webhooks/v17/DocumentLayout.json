@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A36A1F7-A164-478C-BB4C-3859BA876749}|..\\tests\\WebhooksTest\\WebhooksTest.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\tests\\webhookstest\\talkpushtest\\handler\\postpayloadhandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A36A1F7-A164-478C-BB4C-3859BA876749}|..\\tests\\WebhooksTest\\WebhooksTest.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\tests\\webhookstest\\sharedresources\\fixtures\\talkpushtestfixture\\talkpushtestfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A36A1F7-A164-478C-BB4C-3859BA876749}|..\\tests\\WebhooksTest\\WebhooksTest.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\tests\\webhookstest\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\src\\webhooks\\talkpush\\talkpush.api\\services\\webhookbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|solutionrelative:webhooks\\talkpush\\talkpush.api\\services\\webhookbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\src\\webhooks\\talkpush\\talkpush.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|solutionrelative:webhooks\\talkpush\\talkpush.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\src\\webhooks\\talkpush\\talkpush.api\\features\\postpayload\\postpayloadhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|solutionrelative:webhooks\\talkpush\\talkpush.api\\features\\postpayload\\postpayloadhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A36A1F7-A164-478C-BB4C-3859BA876749}|..\\tests\\WebhooksTest\\WebhooksTest.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\tests\\webhookstest\\talkpushtest\\validation\\gettalkpushpayloadvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|c:\\users\\russe\\documents\\github\\cibi_webhooks\\src\\webhooks\\talkpush\\talkpush.api\\features\\postpayload\\postpayloadendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F300AE6D-D937-40C3-AB86-2675B4DF034D}|Webhooks\\Talkpush\\Talkpush.api\\Talkpush.api.csproj|solutionrelative:webhooks\\talkpush\\talkpush.api\\features\\postpayload\\postpayloadendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "..\\tests\\WebhooksTest\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\GlobalUsing.cs",
+              "RelativeToolTip": "..\\tests\\WebhooksTest\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:07:14.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetTalkPushPayloadValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\TalkPushTest\\Validation\\GetTalkPushPayloadValidatorTest.cs",
+              "RelativeDocumentMoniker": "..\\tests\\WebhooksTest\\TalkPushTest\\Validation\\GetTalkPushPayloadValidatorTest.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\TalkPushTest\\Validation\\GetTalkPushPayloadValidatorTest.cs",
+              "RelativeToolTip": "..\\tests\\WebhooksTest\\TalkPushTest\\Validation\\GetTalkPushPayloadValidatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:52:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostPayloadHandler.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadHandler.cs",
+              "RelativeDocumentMoniker": "Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadHandler.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadHandler.cs",
+              "RelativeToolTip": "Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadHandler.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:50:15.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostPayloadEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadEndpoint.cs",
+              "RelativeDocumentMoniker": "Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadEndpoint.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadEndpoint.cs",
+              "RelativeToolTip": "Webhooks\\Talkpush\\Talkpush.api\\Features\\PostPayload\\PostPayloadEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:07:55.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebhookBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Services\\WebhookBackgroundService.cs",
+              "RelativeDocumentMoniker": "Webhooks\\Talkpush\\Talkpush.api\\Services\\WebhookBackgroundService.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Services\\WebhookBackgroundService.cs",
+              "RelativeToolTip": "Webhooks\\Talkpush\\Talkpush.api\\Services\\WebhookBackgroundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:29:41.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TalkPushTestFixture.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\SharedResources\\Fixtures\\TalkPushTestFixture\\TalkPushTestFixture.cs",
+              "RelativeDocumentMoniker": "..\\tests\\WebhooksTest\\SharedResources\\Fixtures\\TalkPushTestFixture\\TalkPushTestFixture.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\SharedResources\\Fixtures\\TalkPushTestFixture\\TalkPushTestFixture.cs",
+              "RelativeToolTip": "..\\tests\\WebhooksTest\\SharedResources\\Fixtures\\TalkPushTestFixture\\TalkPushTestFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:13:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostPayloadHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\TalkPushTest\\Handler\\PostPayloadHandlerTest.cs",
+              "RelativeDocumentMoniker": "..\\tests\\WebhooksTest\\TalkPushTest\\Handler\\PostPayloadHandlerTest.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\tests\\WebhooksTest\\TalkPushTest\\Handler\\PostPayloadHandlerTest.cs",
+              "RelativeToolTip": "..\\tests\\WebhooksTest\\TalkPushTest\\Handler\\PostPayloadHandlerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:44:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Program.cs",
+              "RelativeDocumentMoniker": "Webhooks\\Talkpush\\Talkpush.api\\Program.cs",
+              "ToolTip": "C:\\Users\\russe\\Documents\\GitHub\\CIBI_WebHooks\\src\\Webhooks\\Talkpush\\Talkpush.api\\Program.cs",
+              "RelativeToolTip": "Webhooks\\Talkpush\\Talkpush.api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:07:59.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

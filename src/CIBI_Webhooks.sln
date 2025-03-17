@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{32F47699-C4A6-4C4A-8B44-1C56A68CD752}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Webhooks", "Webhooks", "{49E79025-9A59-44C2-89D4-B0E58F72FAEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TalkPush", "TalkPush", "{E8EA7066-E873-44A9-92A4-39ABEC9A2FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talkpush.api", "Webhooks\Talkpush\Talkpush.api\Talkpush.api.csproj", "{F300AE6D-D937-40C3-AB86-2675B4DF034D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlocks", "BuildingBlocks\BuildingBlocks\BuildingBlocks.csproj", "{14AAE221-91C7-4C4A-B146-368CE8FCC925}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OMS", "OMS", "{BF66EB44-0741-485A-9B59-BF740BAF4D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebhooksTest", "..\tests\WebhooksTest\WebhooksTest.csproj", "{2A36A1F7-A164-478C-BB4C-3859BA876749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F300AE6D-D937-40C3-AB86-2675B4DF034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F300AE6D-D937-40C3-AB86-2675B4DF034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F300AE6D-D937-40C3-AB86-2675B4DF034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F300AE6D-D937-40C3-AB86-2675B4DF034D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14AAE221-91C7-4C4A-B146-368CE8FCC925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AAE221-91C7-4C4A-B146-368CE8FCC925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AAE221-91C7-4C4A-B146-368CE8FCC925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AAE221-91C7-4C4A-B146-368CE8FCC925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A36A1F7-A164-478C-BB4C-3859BA876749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A36A1F7-A164-478C-BB4C-3859BA876749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A36A1F7-A164-478C-BB4C-3859BA876749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A36A1F7-A164-478C-BB4C-3859BA876749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E8EA7066-E873-44A9-92A4-39ABEC9A2FEA} = {49E79025-9A59-44C2-89D4-B0E58F72FAEE}
+		{F300AE6D-D937-40C3-AB86-2675B4DF034D} = {E8EA7066-E873-44A9-92A4-39ABEC9A2FEA}
+		{14AAE221-91C7-4C4A-B146-368CE8FCC925} = {32F47699-C4A6-4C4A-8B44-1C56A68CD752}
+		{BF66EB44-0741-485A-9B59-BF740BAF4D7E} = {49E79025-9A59-44C2-89D4-B0E58F72FAEE}
+	EndGlobalSection
+EndGlobal

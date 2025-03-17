@@ -1,0 +1,12 @@
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.deps.json
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.dll
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.pdb
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
+C:\Users\russe\Documents\GitHub\CIBI_WebHooks\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll

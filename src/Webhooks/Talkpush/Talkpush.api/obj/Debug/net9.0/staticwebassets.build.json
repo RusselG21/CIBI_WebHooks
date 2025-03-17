@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AJyrrOETIhe8CxX9cvQN3zG1/lNTiPT2pXpxyoACIbU=",
+  "Source": "Talkpush.api",
+  "BasePath": "_content/Talkpush.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
