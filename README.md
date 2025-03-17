@@ -133,3 +133,4 @@ Please follow the standard Git workflow:
 1. Create a feature branch
 2. Make your changes
 3. Submit a pull request for review
+4. Code review is implemented
