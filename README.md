@@ -6,7 +6,7 @@ This application provides webhook integration services for the CIBI system. It's
 
 ## Architecture
 
-The application follows a clean architecture approach with:
+The application follows a vertical slice architecture approach with:
 
 - **Services**: Background processing of webhook payloads
 - **CQRS Pattern**: Using MediatR for command/query separation

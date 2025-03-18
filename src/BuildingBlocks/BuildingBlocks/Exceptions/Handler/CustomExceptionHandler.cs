@@ -10,6 +10,13 @@ public class CustomExceptionHandler
     (ILogger<CustomExceptionHandler> logger)
     : IExceptionHandler
 {
+    /// <summary>
+    /// Attempts to handle exceptions that occur during HTTP request processing.
+    /// </summary>
+    /// <param name="context">The HTTP context for the current request.</param>
+    /// <param name="exception">The exception that was thrown during request processing.</param>
+    /// <param name="cancellationToken">A token used to cancel the operation if needed.</param>
+    /// <returns>True if the exception was handled, false otherwise.</returns>
     public async ValueTask<bool> TryHandleAsync
         (HttpContext context,
         Exception exception,
@@ -67,7 +74,8 @@ public class CustomExceptionHandler
         if (exception is ValidationException validationException)
         {
             problemDetails.Extensions.Add("ValidationErrors", validationException.Errors);
-        };
+        }
+        ;
 
         await context.Response.WriteAsJsonAsync(problemDetails, cancellationToken: cancellationToken);
 
