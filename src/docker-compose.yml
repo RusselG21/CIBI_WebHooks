@@ -1,0 +1,6 @@
+services:
+  talkpush.api:
+    image: ${DOCKER_REGISTRY-}talkpushapi
+    build:
+      context: .
+      dockerfile: Webhooks/Talkpush/Talkpush.api/Dockerfile
